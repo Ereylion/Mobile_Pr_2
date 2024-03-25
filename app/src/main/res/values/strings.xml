@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pr_2</string>
+    <string name="button">Open</string>
+    <string name="button_2">Click</string>
+    <string name="name_1">FIO</string>
+    <string name="name_2">Group number</string>
+    <string name="name_3">Age</string>
+    <string name="name_4">Grade</string>
+</resources>
